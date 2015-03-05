@@ -1,0 +1,4 @@
+*.py[co]
+.cache
+pip-log.txt
+~
