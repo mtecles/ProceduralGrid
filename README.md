@@ -4,8 +4,8 @@
 * Python 3.4
 * Virtualenv
 
-## Instalation
-* Initializate the project
+## Installation
+* Initialize the project
 * Clone this repo in the project dir
 * Activate the virtualenv
 * Install requirements:
